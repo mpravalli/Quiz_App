@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Quiz-App
+
+  Created by Makula Pravallika on 07/02/25.
+  
+*/
+"my_profile" = "Mein Profil";
+"name" = "Name";
+"email" = "E-Mail";
+"dark_mode" = "Dunkler Modus";
+"logout" = "Abmelden";
+"select_language" = "Sprache auswählen";
