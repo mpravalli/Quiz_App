@@ -18,7 +18,7 @@ Leaderboard feature to compare past scores
 
 Dark mode support and responsive UI
 
-Localization support for multiple languages (English, Spanish, french)
+Localization support for multiple languages (English, German, french)
 
 Animations and smooth transitions between questions
 
